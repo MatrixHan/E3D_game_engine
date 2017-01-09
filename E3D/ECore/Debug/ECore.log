@@ -1,0 +1,94 @@
+﻿  EMaterial.cpp
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ematerial.cpp(23): warning C4244: “初始化”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ematerial.cpp(24): warning C4244: “初始化”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ematerial.cpp(127): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ematerial.cpp(139): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ematerial.cpp(150): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ematerial.cpp(159): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+  正在生成代码...
+  正在编译...
+  EVector.cpp
+  EUtil.cpp
+e:\my_projects\e3d_game_engine\e3d\ecore\src\eutil.cpp(32): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“vsprintf”的声明
+  EMatrix.cpp
+  EMath.cpp
+  ELight.cpp
+  EGraphics.cpp
+  EFrustum.cpp
+  ECore.cpp
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(684): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(685): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(686): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(693): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(694): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(695): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(720): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(721): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(722): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(729): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(730): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(731): warning C4244: “+=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1050): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1050): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1050): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1050): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1053): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1053): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1053): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1053): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1056): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1056): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1056): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1056): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1080): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1080): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1080): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1080): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1082): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1082): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1082): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1082): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1084): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1084): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1084): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1084): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1117): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1117): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1117): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1117): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1117): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1117): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1143): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1143): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1143): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1143): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1143): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1143): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1206): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1206): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1207): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1207): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1243): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1244): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1287): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1287): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1290): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1290): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1360): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1360): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1361): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1361): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1396): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1397): warning C4244: “=”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1441): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1441): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1444): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\ecore\src\ecore.cpp(1444): warning C4244: “参数”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(E:\my_projects\E3D_game_engine\E3D\Debug\ECore.lib) 与 Library 的 OutputFile 属性值(E:\my_projects\E3D_game_engine\E3D\Lib\ECore.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  ECore.vcxproj -> E:\my_projects\E3D_game_engine\E3D\Debug\ECore.lib

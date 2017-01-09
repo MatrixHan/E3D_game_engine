@@ -1,0 +1,29 @@
+﻿  EGameManager.cpp
+e:\my_projects\e3d_game_engine\e3d\egame\src\egamemanager.cpp(81): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egamemanager.cpp(186): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egamemanager.cpp(187): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egamemanager.cpp(201): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egamemanager.cpp(202): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egamemanager.cpp(203): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+  EGame.cpp
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(83): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(84): warning C4244: “=”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(86): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(86): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(109): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(110): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(111): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(118): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\egame.cpp(119): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+  EBullet.cpp
+e:\my_projects\e3d_game_engine\e3d\egame\src\ebullet.cpp(13): warning C4244: “参数”: 从“E3D::EInt”转换到“E3D::EFloat”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  WinMain.cpp
+  ETank.cpp
+e:\my_projects\e3d_game_engine\e3d\egame\src\etank.cpp(78): warning C4244: “初始化”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+e:\my_projects\e3d_game_engine\e3d\egame\src\etank.cpp(132): warning C4244: “初始化”: 从“E3D::EFloat”转换到“E3D::EInt”，可能丢失数据
+  EPlayerController.cpp
+  EAITank.cpp
+  正在生成代码...
+  EGame.vcxproj -> E:\my_projects\E3D_game_engine\E3D\Debug\EGame.exe

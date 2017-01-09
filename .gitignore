@@ -1,0 +1,7 @@
+*/Debug/*
+*.opendb
+E3D/Lib/
+*/x64/*
+*/*/x64/*
+E3D/*/x64/*
+*.VC.db
